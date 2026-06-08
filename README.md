@@ -6,7 +6,7 @@ round dial and any square screen design.
 
 ## Quick start
 
-1. **Double-click `dial-screen-placer.html`** — it opens in your browser. That's it. No install,
+1. **Open `index.html`** in your browser (or double-click it locally). That's it. No install,
    no internet, no account. Everything runs locally on your machine; your photos never leave it.
 2. **＋ add photos** — pick one or more product shots (or drag them onto the window).
 3. **Screen design** — choose a built-in screen from the dropdown (home screen, temperature,
@@ -37,7 +37,7 @@ round dial and any square screen design.
 
 ## What's in this folder
 
-- `dial-screen-placer.html` — the whole tool (the built-in designs are baked in; works on its own).
+- `index.html` — the whole tool (the built-in designs are baked in; works on its own).
 - `designs/` — the source PNGs for the built-in screens (handy for reference or to copy/edit).
 - `sample-photos/` — two upliance air-fryer shots to practise on.
 
